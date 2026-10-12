@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Escalafón Docente - Bellas Artes",
+  "description": "Portal oficial de escalafón, permanencia y carrera docente de la Institución Universitaria del Valle del Cauca - Bellas Artes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
